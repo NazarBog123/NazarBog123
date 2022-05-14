@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Nazar
-- 👀 I’m interested in coding and traveling
-- 🌱 I’m currently learning JS and things that touches it
-- 🧐 My skills: JavaScript, HTML(BEM), CSS(SCSS) and Git
-- 📫 How to reach me:
-- 👍 Telegram: @NazarBog
+
